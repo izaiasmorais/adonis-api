@@ -8,5 +8,5 @@ export default class Post extends BaseModel {
   public title: string
 
   @column()
-  public descriptrion: string
+  public description: string
 }
